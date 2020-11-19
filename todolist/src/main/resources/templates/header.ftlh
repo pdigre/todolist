@@ -14,7 +14,7 @@
 <h2>Todo-Liste eksempel</h2>
 <span>
 <a href="/">Login</a>
-<a href="/">Github</a>
+<a href="https://github.com/pdigre/todolist">Github</a>
 </span></div>
 </div>
 <div class="main">
